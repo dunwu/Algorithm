@@ -221,6 +221,7 @@
   - [算法面试通关 40 讲](https://time.geekbang.org/course/intro/100019701)
   - [数据结构与算法之美](https://time.geekbang.org/column/intro/100017301)
   - [Data Structures - Computer Science Course for Beginners](https://www.youtube.com/watch?v=zg9ih6SVACc) - 高赞 YouTube 视频教程
+  - [Data Structures and Algorithms Tutorial](https://www.scaler.com/topics/data-structures/)
 
 ## 🚪 传送
 
